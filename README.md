@@ -98,8 +98,8 @@ Results:
 
 ## Deployment
 
-The final model was deployed using Streamlit as an interactive web application.
-Deployment link:
+The final model was deployed using Streamlit as an interactive web application.  
+Deployment link:  
 https://ai-ml-internship-major-project-8nsepyknvttcrzappjg9eub.streamlit.app/
 
 
