@@ -110,7 +110,7 @@ This project successfully applied Generative AI techniques for improving credit 
 
 ## Author
 
-Mansi Adiga
+Mansi Adiga  
 AI/ML Intern Project — GNCIPL
 
 
